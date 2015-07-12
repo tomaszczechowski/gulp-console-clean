@@ -1,6 +1,6 @@
 {
   "name": "gulp-console-clean",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Plugin for gulp to clean up code from console object",
   "author": "Tomasz Czechowski",
   "scripts": {
