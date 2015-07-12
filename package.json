@@ -1,0 +1,43 @@
+{
+  "name": "gulp-console-clean",
+  "version": "0.0.0",
+  "description": "Plugin for gulp to clean up code from console object",
+  "author": "Tomasz Czechowski",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomaszczechowski/gulp-console-clean.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tomaszczechowski/gulp-console-clean/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/tomaszczechowski/gulp-console-clean/blob/master/LICENSE"
+    }
+  ],
+  "keywords": [
+    "gulp",
+    "console.log clean",
+    "gulp console clean",
+    "clean console grunt",
+    "clean console.log object",
+    "clean console.log",
+    "gulp clean console.log",
+    "console.log",
+    "console",
+    "clean",
+    "console.log",
+    "clean",
+    "console",
+    "gulp",
+    "clean",
+    "console.log"
+  ],
+  "devDependencies": {},
+  "license": "MIT",
+  "homepage": "https://github.com/tomaszczechowski/gulp-console-clean"
+}
